@@ -1,23 +1,14 @@
 .banner {
     position: relative;
     background-position: center;
-    background-size: cover;
-    background-image: url("./public/072422_224306_1.jpg");
+    background-color: rgb(5, 7, 145);
     padding-inline: 2rem;
-    min-height: 140px;
+    min-height: 50px;
     margin: auto;
-    border-radius: 2rem;
-    display: grid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     color: white;
-    place-items: center;
     margin-bottom: 2rem;
     max-width: 100%;
-}
-
-.banner::before {
-    position: absolute;
-    border-radius: 2rem;
-    content: "";
-    inset: 0;
-    opacity: 0.5;
 }

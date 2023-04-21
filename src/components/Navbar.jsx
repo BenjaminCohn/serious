@@ -7,9 +7,7 @@ function Navbar() {
         <div className='navbar__logo'>
             <img src="Logo_Serious_copie.jpg" alt="logo" />
         </div>
-        <div>Accueil</div>
-        <div>A propos</div>
-        <div>Contact</div>
+        
     </nav>
   )
 }
