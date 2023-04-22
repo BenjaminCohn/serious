@@ -9,7 +9,7 @@ function Banner() {
         <div>La guilde</div>
         <div>Avancée</div>
         <div>Recrutement</div>
-        <div>Liens utiles</div>
+        {/*<div>guide classe</div>*/}
     </div>
   )
 }

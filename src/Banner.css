@@ -1,7 +1,7 @@
 .banner {
     position: relative;
     background-position: center;
-    background-color: rgb(5, 7, 145);
+    background: linear-gradient(45deg,rgb(34,77,190),rgb(219,28,62) );
     padding-inline: 2rem;
     min-height: 50px;
     margin: auto;
